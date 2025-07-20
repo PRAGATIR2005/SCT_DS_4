@@ -1,0 +1,8 @@
+Accident_ID,Date,Time,Road_Condition,Weather,Accident_Severity,Location,Contributing_Factor,
+1,20-07-25,08:30:00,Dry,Clear,Minor,40.7128,-74.006,Speeding
+2,20-07-25,14:00:00,Wet,Rainy,Major,40.7484,-73.9857,Distraction
+3,19-07-25,22:00:00,Icy,Foggy,Fatal,40.7306,-73.9352,Drunk Driving
+4,18-07-25,07:15:00,Dry,Clear,Minor,40.741,-73.9936,Speeding
+5,17-07-25,18:45:00,Wet,Rainy,Major,40.758,-73.9855,Distraction
+6,16-07-25,19:30:00,Dry,Clear,Minor,40.7306,-73.9352,Speeding
+7,16-07-25,12:00:00,Dry,Foggy,Major,40.7484,-73.9857,Weather Conditions
